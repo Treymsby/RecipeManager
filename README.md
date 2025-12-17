@@ -136,6 +136,7 @@ The web app can optionally be configured as a **Progressive Web App (PWA)**:
 * Fully open-source stack
 * Easy to deploy and maintain
 * Extendable for future mobile apps
+* Deploy Via CICD
 
 ---
 
