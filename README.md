@@ -166,14 +166,4 @@ Please open an issue or pull request.
 This project is under active development.
 Features, APIs, and database schemas may change.
 
----
-
-If you want, I can also:
-
-* Adjust this for **Express-only** or **NestJS-only**
-* Make it **PWA-first**
-* Add **Docker / Kubernetes badges**
-* Rewrite it for a **public open-source audience** or **private self-hosted use**
-
-Just tell me.
 
